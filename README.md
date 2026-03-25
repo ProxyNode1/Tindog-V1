@@ -1,4 +1,4 @@
-# Tindog-V1
+# Tindog
 Static landing page for Hypothetical Tinder for Dogs
 
 Created using HTML, CSS, and Bootstrap.  
